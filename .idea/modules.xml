@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/0X02/construindo_API_REST.iml" filepath="$PROJECT_DIR$/0X02/construindo_API_REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x02/construindo_API_REST.iml" filepath="$PROJECT_DIR$/0x02/construindo_API_REST.iml" />
       <module fileurl="file://$PROJECT_DIR$/tc-hbtn-microsservicos_java.iml" filepath="$PROJECT_DIR$/tc-hbtn-microsservicos_java.iml" />
     </modules>
   </component>
